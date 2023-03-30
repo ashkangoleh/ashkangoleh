@@ -1,7 +1,38 @@
-👋 Hi, I'm Ashkan Golehpour, a Python and Data Engineer with expertise in various technologies and tools such as FastApi, SQLAlchemy, Scikit-learn, Apache Airflow, Apache Kafka, Redis, ETL/ELT, Hadoop, Apache Spark, Postgresql, MongoDB, Neo4j, MYSQL, and more. I have experience working on various projects as a Python Developer and Data Engineer.
+Hi 👋 My name is Ashkan Goleh Pour
+==================================
 
-🚀 Currently, I am working at ArzDigital as a Python Developer/Data Engineer, where I successfully designed and implemented an automated comment validation system, which significantly improved comment management and achieved a fast response time for approving or rejecting user comments. I also established 4 microservices using FastAPI and SQLAlchemy and implemented an asynchronous task queue system for data processing pipelines using Celery and FastAPI.
+Python Engineer & Data Engineer enthusiast
+------------------------------------------
 
-👨‍💻 Moreover, I have experience working as a Python/Django Developer at Idea Afzar Parto Maham and as a Django Developer at NextPay, where I deployed mobile apps' API using Python and Django, built KYC API, and overhauled old scripts.
+I am a Software Engineer with a passion for learning and a drive to push beyond my current abilities. Constantly seeking new challenges and opportunities to improve my skills, I strive to become a leading expert in my field.
 
-🎓 I hold a Bachelor’s Degree in Software Engineering from The Azad Islamic University, and I am proficient in both English and Persian languages.
+* 🌍  I'm based in Iran
+* 🚀  I'm currently working on [Arzdigital](http://arzdigital.com)
+* 🧠  I'm learning Data engineering
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/ashkangoleh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@unreboot.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ashkangoleh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ashkan-goleh-pour-0463b8127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ashkangoleh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/13213071/ashkan-goleh-pour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GolehPour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/ashkangoleh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ashkangoleh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
