@@ -4,7 +4,13 @@ Hi 👋 My name is Ashkan Goleh Pour
 Python Engineer & Data Engineer enthusiast
 ------------------------------------------
 
-I am a Software Engineer with a passion for learning and a drive to push beyond my current abilities. Constantly seeking new challenges and opportunities to improve my skills, I strive to become a leading expert in my field.
+As a Python and Data Engineer with experience in a range of technologies, including FastAPI, SQLAlchemy, Django, Scikit-learn, Apache Kafka, Redis, and more, I have a proven track record of designing and implementing successful data solutions.
+
+I have developed a range of projects in different areas, including comment validation systems, trading strategies, and web scraping services, as well as experience with databases such as Postgresql, MongoDB, Neo4j, and MySQL. My skills in ETL/ELT and experience with BigData tools such as Hadoop and Apache Spark also make me a valuable asset in the field.
+
+With my strong understanding of Python, I have created highly effective solutions that address critical business needs, while also optimizing database access and reducing response times. I am skilled in working with asynchronous frameworks like FastAPI and have utilized tools like Airflow to streamline data pipelines, all while working collaboratively with others.
+
+In addition to my technical expertise, I am a skilled communicator and problem solver, and I am highly dedicated to delivering quality work that exceeds expectations. I believe in continually learning and staying up-to-date with the latest technologies to ensure that my projects remain efficient, scalable, and secure.
 
 * 🌍  I'm based in Iran
 * 🚀  I'm currently working on [Arzdigital](http://arzdigital.com)
