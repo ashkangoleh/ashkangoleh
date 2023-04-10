@@ -1,7 +1,7 @@
 Hi 👋 My name is Ashkan Goleh Pour
 ==================================
 
-Python Engineer & Data Engineer enthusiast
+Python Engineer & Data Engineering enthusiast
 ------------------------------------------
 
 As a Python and Data Engineer with experience in a range of technologies, including FastAPI, SQLAlchemy, Django, Scikit-learn, Apache Kafka, Redis, and more, I have a proven track record of designing and implementing successful data solutions.
