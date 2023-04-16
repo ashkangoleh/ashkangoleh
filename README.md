@@ -13,7 +13,7 @@ With my strong understanding of Python, I have created highly effective solution
 In addition to my technical expertise, I am a skilled communicator and problem solver, and I am highly dedicated to delivering quality work that exceeds expectations. I believe in continually learning and staying up-to-date with the latest technologies to ensure that my projects remain efficient, scalable, and secure.
 
 * 🌍  I'm based in Iran
-* 🚀  I'm currently working on [Devsteam](http://deavsteam.ir)
+* 🚀  I'm currently working on [Devsteam](http://devsteam.ir)
 * 🧠  I'm learning Data engineering
 
 ### Skills
