@@ -13,7 +13,7 @@ With my strong understanding of Python, I have created highly effective solution
 In addition to my technical expertise, I am a skilled communicator and problem solver, and I am highly dedicated to delivering quality work that exceeds expectations. I believe in continually learning and staying up-to-date with the latest technologies to ensure that my projects remain efficient, scalable, and secure.
 
 * 🌍  I'm based in Iran
-* 🚀  I'm currently working at [Edgecom](https://edgecom.ai/) and [Bit24](https://bit24.cash/)
+* 🚀  I'm currently working at [Bit24](https://bit24.cash/) and [Boof.ai](https://staging.boof.ai/)
 * 🧠  I'm learning Data engineering
 
 ### Skills
@@ -40,3 +40,5 @@ In addition to my technical expertise, I am a skilled communicator and problem s
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkangoleh&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkangoleh&show_icons=true&theme=radical)
+
+
