@@ -1,18 +1,18 @@
 Hi 👋 My name is Ashkan Goleh Pour
 ==================================
 
-Python Engineer & Data Engineering enthusiast (self tought)
+Python Engineer & Data Engineering enthusiast (self-taught)
 ------------------------------------------
 
 As a Python and Data Engineer with experience in a range of technologies, including FastAPI, SQLAlchemy, Django, Scikit-learn, Apache Kafka, Redis, and more, I have a proven track record of designing and implementing successful data solutions.
 
 I have developed a range of projects in different areas, including comment validation systems, trading strategies, and web scraping services, as well as experience with databases such as Postgresql, MongoDB, Neo4j, and MySQL. My skills in ETL/ELT and experience with BigData tools such as Hadoop and Apache Spark also make me a valuable asset in the field.
 
-With my strong understanding of Python, I have created highly effective solutions that address critical business needs, while also optimizing database access and reducing response times. I am skilled in working with asynchronous frameworks like FastAPI and have utilized tools like Airflow to streamline data pipelines, all while working collaboratively with others.
+With my strong understanding of Python, I have created highly effective solutions that address critical business needs while optimizing database access and reducing response times. I am skilled in working with asynchronous frameworks like FastAPI and have utilized tools like Airflow to streamline data pipelines, all while working collaboratively with others.
 
-In addition to my technical expertise, I am a skilled communicator and problem solver, and I am highly dedicated to delivering quality work that exceeds expectations. I believe in continually learning and staying up-to-date with the latest technologies to ensure that my projects remain efficient, scalable, and secure.
+In addition to my technical expertise, I am a skilled communicator, and problem solver, and highly dedicated to delivering quality work that exceeds expectations. I believe in continually learning and staying up-to-date with the latest technologies to ensure my projects remain efficient, scalable, and secure.
 
-* 🌍  I'm based in Iran
+* 🌍  I'm Everywhere
 * 🚀  I'm currently working at Home 
 * 🧠  I'm learning Data engineering
 
