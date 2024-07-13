@@ -1,16 +1,25 @@
 Hi 👋 My name is Ashkan Goleh Pour
 ==================================
 
-Python Engineer & Data Engineering enthusiast (self-taught)
+Python Engineer & Data Engineering Enthusiast
 ------------------------------------------
 
-As a Python and Data Engineer with experience in a range of technologies, including FastAPI, SQLAlchemy, Django, Scikit-learn, Apache Kafka, Redis, and more, I have a proven track record of designing and implementing successful data solutions.
+As a seasoned Python Engineer and Data Engineering enthusiast, I bring extensive experience in developing robust data solutions using a diverse array of technologies. My expertise spans across FastAPI, SQLAlchemy, Django, Apache Kafka, Redis, and more.
 
-I have developed a range of projects in different areas, including comment validation systems, trading strategies, and web scraping services, as well as experience with databases such as Postgresql, MongoDB, Neo4j, and MySQL. My skills in ETL/ELT and experience with BigData tools such as Hadoop and Apache Spark also make me a valuable asset in the field.
+My Journey & Expertise
+------------------------------------------
 
-With my strong understanding of Python, I have created highly effective solutions that address critical business needs while optimizing database access and reducing response times. I am skilled in working with asynchronous frameworks like FastAPI and have utilized tools like Airflow to streamline data pipelines, all while working collaboratively with others.
+* <b>Backend Development:</b> Skilled in designing and implementing scalable backend systems using frameworks like FastAPI and Django.
 
-In addition to my technical expertise, I am a skilled communicator, and problem solver, and highly dedicated to delivering quality work that exceeds expectations. I believe in continually learning and staying up-to-date with the latest technologies to ensure my projects remain efficient, scalable, and secure.
+* <b>Data Engineering:</b>  Proficient in creating efficient data pipelines with tools such as Apache Airflow, enhancing data processing efficiency and ensuring reliable data workflows.
+
+* <b>Big Data:</b>  Experienced with tools like Apache Airflow, Apache Kafka, Mageai, MinIO, and Elasticsearch, adept at handling and processing large datasets.
+
+* <b>Database Management:</b>  Extensive work with PostgreSQL, MongoDB, Neo4j, and MySQL, optimizing database schemas and queries to improve performance.
+
+* <b>ETL/ELT Processes:</b>  Expert in designing ETL/ELT workflows, ensuring seamless data integration and transformation.
+
+* <b>AI & ML:</b>  Developed intelligent systems including comment validation and trading strategies leveraging multi-threading and multiprocessing. Proficient in using large language models (LLM) and LangChain to develop advanced AI services.\n
 
 * 🌍  I'm Everywhere
 * 🚀  I'm currently working at Home 
@@ -27,9 +36,6 @@ In addition to my technical expertise, I am a skilled communicator, and problem 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 
