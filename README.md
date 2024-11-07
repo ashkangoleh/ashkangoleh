@@ -48,7 +48,7 @@
 <br></br>
 <p align="left">
   🌍 I'm Everywhere <br>
-  🚀 Currently working remotely <br>
+  🚀 Currently working on-site <br>
   🧠 Always learning and expanding my knowledge in Data Engineering
 </p>
 <h3>Skills</h3>
