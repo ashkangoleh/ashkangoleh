@@ -1,76 +1,129 @@
-<h1 align="center">Hi 👋 My name is Ashkan Goleh Pour</h1>
-<h2 align="center">Python Engineer & Data Engineering Enthusiast</h2>
+# Ashkan Golehpour
 
-<p align="center" style="font-size: 14px;">
-  As a seasoned Python Engineer and Data Engineering enthusiast, I bring extensive experience in developing robust data solutions using a diverse array of technologies. My expertise spans across FastAPI, SQLAlchemy, Django, Apache Kafka, Redis, and more.
-</p>
+## Data Engineer
 
-<h3>My Journey & Expertise</h3>
-<ul>
-  <li><strong>Backend Development</strong>: <span style="font-size: 14px;">Skilled in designing and implementing scalable backend systems using frameworks like FastAPI and Django.</span></li>
-  <li><strong>Data Engineering</strong>: <span style="font-size: 14px;">Proficient in creating efficient data pipelines with tools such as Apache Airflow, enhancing data processing efficiency and ensuring reliable data workflows.</span></li>
-  <li><strong>Big Data</strong>: <span style="font-size: 14px;">Experienced with tools like Apache Airflow, Apache Kafka, Mageai, MinIO, and Elasticsearch, adept at handling and processing large datasets.</span></li>
-  <li><strong>Database Management</strong>: <span style="font-size: 14px;">Extensive work with PostgreSQL, MongoDB, Neo4j, and MySQL, optimizing database schemas and queries to improve performance.</span></li>
-  <li><strong>ETL/ELT Processes</strong>: <span style="font-size: 14px;">Expert in designing ETL/ELT workflows, ensuring seamless data integration and transformation.</span></li>
-  <li><strong>AI & ML</strong>: <span style="font-size: 14px;">Developed intelligent systems including comment validation and trading strategies leveraging multi-threading and multiprocessing. Proficient in using large language models (LLM) and LangChain to develop advanced AI services.</span></li>
-</ul>
+### Welcome!
+Hello, I am Ashkan Golehpour, a seasoned Data Engineer. My career focuses on developing efficient, scalable, and robust data solutions that enable organizations to achieve their goals through data-driven decision-making.
 
-<h3>Key Projects & Achievements</h3>
-<ul>
-  <li><strong>Comment Validation Systems</strong>: <span style="font-size: 14px;">Reduced manual intervention by 80% with an intelligent comment validation system.</span></li>
-  <li><strong>Trading Strategies</strong>: <span style="font-size: 14px;">Achieved a 60% reduction in strategy validation time through optimized concurrency techniques.</span></li>
-  <li><strong>Web Scraping Services</strong>: <span style="font-size: 14px;">Created efficient web scraping services for dynamic data extraction and analysis.</span></li>
-  <li><strong>Data Visualization</strong>: <span style="font-size: 14px;">Enhanced data-driven decision-making with tools like Metabase and Grafana.</span></li>
-</ul>
+---
 
-<h3>Technical Proficiency</h3>
-<ul>
-  <li><strong>Programming Languages</strong>: <span style="font-size: 14px;">Python, Node.js (JS, TS), Shell Scripting</span></li>
-  <li><strong>Frameworks & Tools</strong>: <span style="font-size: 14px;">FastAPI, Django, Apache Kafka, Redis, Celery, Docker, Kubernetes, Terraform, Prometheus, Grafana</span></li>
-  <li><strong>Big Data & ETL</strong>: <span style="font-size: 14px;">Apache Airflow, Mageai, MinIO, Elasticsearch, SQL, MongoDB, PostgreSQL</span></li>
-  <li><strong>AI & Machine Learning</strong>: <span style="font-size: 14px;">LLM, LangChain, OpenAI</span></li>
-  <li><strong>CI/CD</strong>: <span style="font-size: 14px;">GitHub Actions, GitLab CI, ClickUp</span></li>
-</ul>
+## 🚀 About Me
 
-<h3>Professional Experience</h3>
-<ul>
-  <li><strong>Senior Python Developer & Data Engineer at Bit24</strong>: <span style="font-size: 14px;">Enhanced system capabilities and user experience, and improved deployment efficiency through containerization.</span></li>
-  <li><strong>Senior Python Developer & Data Engineer at NeverStopMedia (Boof.ai)</strong>: <span style="font-size: 14px;">Optimized resource use with Celery, improved search capabilities with Elasticsearch, and developed dynamic AI services.</span></li>
-  <li><strong>Senior Python Developer at Edgecom</strong>: <span style="font-size: 14px;">Modernized legacy systems, improving functionality and user satisfaction.</span></li>
-  <li><strong>Senior Python & Software Engineer at Digid</strong>: <span style="font-size: 14px;">Boosted user engagement and integrated advanced AI technologies.</span></li>
-  <li><strong>Senior Python Engineer & Data Engineer at ArzDigital</strong>: <span style="font-size: 14px;">Engineered advanced data solutions and optimized resource usage for large datasets.</span></li>
-</ul>
+I am a dedicated Data Engineer with a strong foundation in backend development and advanced data engineering practices. My expertise includes optimizing data pipelines, handling big data technologies, and leveraging modern tools to deliver seamless and efficient workflows.
 
-<h3>Personal & Professional Growth</h3>
-<p style="font-size: 14px;">
-  I am a dedicated professional who believes in continual learning and staying up-to-date with the latest technologies. My goal is to deliver efficient, scalable, and secure solutions that address critical business needs and exceed expectations.
-</p>
-<br></br>
-<p align="left">
-  🌍 I'm Everywhere <br>
-  🚀 Currently working on-site <br>
-  🧠 Always learning and expanding my knowledge in Data Engineering
-</p>
-<h3>Skills</h3>
+---
+
+## 💡 My Expertise
+
+### **Backend Development**
+- **Frameworks**: FastAPI, gRPC, Celery.
+- **Capabilities**: Scalable and maintainable backend systems, RESTful APIs.
+
+### **Data Engineering**
+- **Tools**: Apache Airflow, Apache Kafka, MageAI, Redis, PostgreSQL, MongoDB, Clickhouse, Apache Iceberg, Dremio, Nessie, DuckDB.
+- **Focus Areas**: ETL/ELT pipelines, data ingestion, transformation, and efficient workflows.
+
+### **Big Data Solutions**
+- **Technologies**: Hadoop, Elasticsearch, MinIO, Apache Iceberg, Clickhouse.
+- **Achievements**: Streamlined processing of large datasets.
+
+### **Database Optimization**
+- **Experience**: PostgreSQL, MongoDB, Neo4j, MSSQL.
+- **Optimization**: Query performance, schema design, and indexing.
+
+### **AI & Machine Learning**
+- **Specialties**: LLMs (LangChain, OpenAI), intelligent systems.
+- **Key Systems**: Comment validation, trading strategies, dynamic Q&A.
+
+### **Certifications & Badges**
+
+* **[Data Engineering Essentials](https://www.credly.com/badges/da9c8813-98e9-4c03-8de4-66aefe2b4115/public_url)**
+* **[ETL and Data Pipelines with Shell, Airflow and Kafka](https://www.credly.com/badges/1b7fe801-613c-465a-be0b-dbc98d0819da/public_url)**
+* **[Relational Database Administration Essentials](https://www.credly.com/badges/53ec7c08-cc04-4db5-a07c-179ff70ba1bf/public_url)**
+* **[Python Project for Data Engineering](https://www.credly.com/badges/0df499a9-6d47-4547-81e3-ee5e212d94c7/public_url)**
+* **[Databases and SQL for Data Science](https://www.credly.com/badges/1c8ad11f-4d42-4efa-b4c3-9ab8bf07c1a1/public_url)**
+* **[Python Data Structures](https://www.coursera.org/account/accomplishments/verify/T6H58BJM6T4N)**
+* **[ScyllaDB Essentials Course Completion Certificates](https://university.scylladb.com/your-certificate/1275F29D5-127226E94-127224851/)**
+* **[Dremio Verified Lakehouse Associate](https://www.credly.com/badges/5429bf20-60b4-4b1a-8d09-31a153f159e0/public_url)**
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+---
 
+## 🏆 Key Projects
 
-### Socials
+### Comment Validation Systems
+- Reduced manual intervention by 80% with an AI-based system.
 
-<p align="left"> <a href="https://www.github.com/ashkangoleh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hashnode.com/@unreboot.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ashkangoleh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ashkan-goleh-pour-0463b8127/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ashkangoleh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/13213071/ashkan-goleh-pour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GolehPour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Trading Strategies Optimization
+- Enhanced concurrency techniques leading to a 60% reduction in validation time.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkangoleh&layout=compact)
+### Web Scraping Services
+- Built dynamic, scalable web scraping solutions for actionable insights.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashkangoleh&show_icons=true&theme=radical)
+### Data Visualization Dashboards
+- Enabled data-driven decisions using tools like Metabase and Grafana.
 
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frameworks & Libraries
+- ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) | ![gRPC](image.png) | ![Celery](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/celery-icon.png) | ![Polars](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/polars-icon.png) | ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Big Data & ETL Tools
+- ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) | Clickhouse | ![Elasticsearch](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) | MinIO | Apache Iceberg | Dremio | Nessie | ![DuckDB](https://img.shields.io/badge/Duckdb-000000?style=for-the-badge&logo=Duckdb&logoColor=yellow)
+
+### AI & ML Tools
+- OpenAI | LangChain | Ray
+
+### DevOps & Monitoring
+- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000) | ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
+
+---
+
+## 📈 Professional Journey
+
+### **Data Engineer @ IFB** *(Oct 2024 - Present)*
+- Migrated databases from MSSQL to Clickhouse.
+- Optimized Clickhouse for OLAP performance.
+
+### **Data Engineer @ Bit24** *(Jul 2023 - Oct 2024)*
+- Implemented Apache Kafka for real-time data.
+- Streamlined dashboards with Metabase and Webengage.
+
+### **Data Engineer @ NeverStopMedia (Boof.ai)** *(Jan 2023 - Jul 2023)*
+- Built AI systems with LLMs and LangChain.
+- Integrated Elasticsearch for enhanced search performance.
+
+### **Data Engineer @ Edgecom** *(Sep 2023 - Jan 2023)*
+- Refactored legacy systems for optimized data workflows.
+
+### **Data Engineer @ Digid** *(May 2023 - Sep 2023)*
+- Enhanced cloud scalability and performance using GCP.
+
+### **Data Engineer @ ArzDigital** *(Aug 2021 - May 2023)*
+- Developed trading assistants and blockchain node architectures.
+
+---
+
+## 🎓 Education
+- **Bachelor’s Degree in Software Engineering**
+  - The Azad Islamic University *(Jan 2014 - Jul 2018)*
+
+---
+
+## 🌐 Find Me Online
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashkan-goleh-pour-0463b8127/)
+- [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashkangoleh)
+- [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ashkangoleh)
+
+---
+
+![Ashkan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashkangoleh&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashkangoleh&layout=compact)
 
