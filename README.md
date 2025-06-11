@@ -24,7 +24,7 @@ I am a dedicated Data Engineer with a strong foundation in backend development a
 - **Focus Areas**: ETL/ELT pipelines, data ingestion, transformation, and efficient workflows.
 
 ### **Big Data Solutions**
-- **Technologies**: Hadoop, Elasticsearch, MinIO, Apache Iceberg, Clickhouse.
+- **Technologies**: MinIO, Apache Iceberg, Clickhouse, DataLakehouse.
 - **Achievements**: Streamlined processing of large datasets.
 
 ### **Database Optimization**
@@ -68,7 +68,7 @@ I am a dedicated Data Engineer with a strong foundation in backend development a
 ## 🛠️ Tech Stack
 
 ### Programming Languages
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) | ![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks & Libraries
 - ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) | ![gRPC](image.png) | ![Celery](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/celery-icon.png) | ![Polars](https://icons.iconarchive.com/icons/simpleicons-team/simple/48/polars-icon.png) | ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
